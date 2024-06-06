@@ -1,0 +1,14 @@
+{
+  "name": "express-web-api-example",
+  "version": "1.0.0",
+  "description": "web api express example",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
