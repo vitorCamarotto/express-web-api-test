@@ -1,9 +1,9 @@
 // app.js
 const express = require("express");
 
-const usersController = require("./controllers/users_controller");
-const dashboardsController = require("./controllers/dashboards_controller")
-const service = require("./services/myService")
+const usersController = require("./src/controllers/users_controller");
+const dashboardsController = require("./src/controllers/dashboards_controller")
+const service = require("./src/services/myService")
 
 const app = express();
 const port = 8080;
